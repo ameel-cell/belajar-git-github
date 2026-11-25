@@ -2,5 +2,7 @@ Hari ini saya ingin belajar mengenai Git dan Github
 
 Materi :
 Mengenal Git
+Git adalah alat yang digunakan untuk mengelola perubahan didalam dokumen.
+
 Mengenal Github
 Mengenal Repository
