@@ -5,4 +5,6 @@ Mengenal Git
 Git adalah alat yang digunakan untuk mengelola perubahan didalam dokumen.
 
 Mengenal Github
+Github adalah platform untuk menyimpan repository secara online.
+
 Mengenal Repository
