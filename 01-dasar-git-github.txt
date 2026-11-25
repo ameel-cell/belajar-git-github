@@ -1,0 +1,6 @@
+Hari ini saya ingin belajar mengenai Git dan Github
+
+Materi :
+Mengenal Git
+Mengenal Github
+Mengenal Repository
