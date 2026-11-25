@@ -1,3 +1,4 @@
+Pertemuan 1 : Belajar Git dan Github
 Hari ini saya ingin belajar mengenai Git dan Github
 
 Materi :
@@ -8,3 +9,8 @@ Mengenal Github
 Github adalah platform untuk menyimpan repository secara online.
 
 Mengenal Repository
+
+Pertemuan 2: Belajar Branch
+
+Branch digunakan untuk membuat cabang pengerjaan
+tanpa mengubah branch utama (main).
