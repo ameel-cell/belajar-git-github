@@ -15,7 +15,7 @@ Pertemuan 2: Belajar Branch
 Branch digunakan untuk membuat cabang pengerjaan
 tanpa mengubah branch utama (main).
 
-Pertemua 3: Belajar Merge
+Pertemuan 3: Belajar Merge
 Latihan Merge Conflict:
 
-Belajar Git dan GitHub sangat menyenangkan.
+Belajar Git dan GitHub sangat menyenangkan dan mudah dipahami.
