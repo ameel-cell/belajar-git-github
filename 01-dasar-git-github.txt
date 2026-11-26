@@ -18,4 +18,4 @@ tanpa mengubah branch utama (main).
 Pertemuan 3: Belajar Merge
 Latihan Merge Conflict:
 
-Git membantu mencatat setiap perubahan kode program.
+GitHub memudahkan kolaborasi dalam sebuah proyek.
