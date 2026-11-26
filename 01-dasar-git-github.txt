@@ -18,4 +18,4 @@ tanpa mengubah branch utama (main).
 Pertemuan 3: Belajar Merge
 Latihan Merge Conflict:
 
-Belajar Git dan GitHub sangat menyenangkan dan mudah dipahami.
+GitHub memudahkan kolaborasi dalam sebuah proyek.
